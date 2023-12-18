@@ -1,0 +1,2 @@
+## This is the UG Medical Center Records sytems
+All functionalities like creating or adding a patient's details to the database has been succefully implement and existing patients can also be looked up etc.
